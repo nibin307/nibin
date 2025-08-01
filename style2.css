@@ -1,8 +1,9 @@
-h1{
+.header{
     color: blue;
     text-align: center;
 }
-h2{
+.para{
     color: black;
     text-align: center;
+    
 }
